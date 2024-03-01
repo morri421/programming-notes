@@ -1,0 +1,1 @@
+Changed a nosql response. But some downstream consumers had logic that looked for specific things. Somehow this created an error, even though the additional field should have been skipped over if their logic wasn't specifically asking for it. 
