@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Video Essays/ThePrimeagen/Fight Abstraction.md",
+                "file": "Software Principles/Industry Terms/Primitives.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Video Essays/ThePrimeagen/Fight Abstraction.md",
+                "file": "Software Principles/Industry Terms/Primitives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Video Essays/ThePrimeagen/Fight Abstraction.md",
+                "file": "Software Principles/Industry Terms/Primitives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Video Essays/ThePrimeagen/Fight Abstraction.md"
+                "file": "Software Principles/Industry Terms/Primitives.md"
               }
             }
           }
@@ -147,25 +147,30 @@
   },
   "active": "11e3c68d3e515c3b",
   "lastOpenFiles": [
-    "Future Projects.md",
+    "Software Principles/Industry Terms/Middleware.md",
+    "Software Principles/Industry Terms/Primitives.md",
+    "Software Principles/Waste/7 Wastes of Lean Software Development.md",
+    "Software Principles/Testing/Assemble, Act, Assert.md",
+    "Software Principles/SOLID Principles/SOLID.md",
+    "Software Principles/Comments/Minimal Use.md",
+    "Java/throw vs throws.md",
+    "Java/static variables.md",
+    "Software Principles/Industry Terms",
     "Video Essays/ThePrimeagen/Fight Abstraction.md",
+    "Java",
+    "Video Essays/ThePrimeagen/Motivation Advice.md",
+    "Future Projects.md",
     "Video Essays/ThePrimeagen",
     "Video Essays",
     "Interview Prep/Stories.md",
     "Interview Prep/Interview Questions To Ask Interviewer.md",
-    "Software Principles/Comments/Minimal Use.md",
-    "Software Principles/SOLID Principles/SOLID.md",
     "Software Principles/SOLID Principles",
-    "Software Principles/Testing/Assemble, Act, Assert.md",
-    "Software Principles/Waste/7 Wastes of Lean Software Development.md",
     "Software Principles/Waste",
     "Software Principles/Testing",
     "Software Principles/Comments",
     "Software Principles",
     "Interview Prep",
     "Index.md",
-    "Slip-Box",
-    "References",
     "tests/Test.md",
     "tests/Test 2.md",
     "2023-12-18.md",

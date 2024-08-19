@@ -1,0 +1,1 @@
+Change your mindset. You can do it. Instead of framing things as whether you can or can't do a task, it's "how long until you can complete the task". It will help you learn things.
