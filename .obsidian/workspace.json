@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Principles/Industry Terms/Primitives.md",
+                "file": "Collections/Hashmaps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Principles/Industry Terms/Primitives.md",
+                "file": "Collections/Hashmaps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Principles/Industry Terms/Primitives.md",
+                "file": "Collections/Hashmaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Principles/Industry Terms/Primitives.md"
+                "file": "Collections/Hashmaps.md"
               }
             }
           }
@@ -147,14 +147,18 @@
   },
   "active": "11e3c68d3e515c3b",
   "lastOpenFiles": [
-    "Software Principles/Industry Terms/Middleware.md",
-    "Software Principles/Industry Terms/Primitives.md",
+    "Interview Prep/Stories.md",
+    "Interview Prep/Interview Questions To Ask Interviewer.md",
     "Software Principles/Waste/7 Wastes of Lean Software Development.md",
     "Software Principles/Testing/Assemble, Act, Assert.md",
     "Software Principles/SOLID Principles/SOLID.md",
+    "Software Principles/Industry Terms/Primitives.md",
     "Software Principles/Comments/Minimal Use.md",
     "Java/throw vs throws.md",
     "Java/static variables.md",
+    "Collections/Hashmaps.md",
+    "Collections",
+    "Software Principles/Industry Terms/Middleware.md",
     "Software Principles/Industry Terms",
     "Video Essays/ThePrimeagen/Fight Abstraction.md",
     "Java",
@@ -162,14 +166,11 @@
     "Future Projects.md",
     "Video Essays/ThePrimeagen",
     "Video Essays",
-    "Interview Prep/Stories.md",
-    "Interview Prep/Interview Questions To Ask Interviewer.md",
     "Software Principles/SOLID Principles",
     "Software Principles/Waste",
     "Software Principles/Testing",
     "Software Principles/Comments",
     "Software Principles",
-    "Interview Prep",
     "Index.md",
     "tests/Test.md",
     "tests/Test 2.md",
